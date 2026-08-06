@@ -1,6 +1,6 @@
 # THRIVE-Belize | Rotary Club of Punta Gorda
 
-**Live presentation: <https://yeridu.github.io/rotary/>**
+**Live presentation: <https://yeridu.github.io/THRIVE-Belize-RotaryClub/>**
 
 Share that address with the audience. It opens in any browser, on a phone or a laptop, with no login and nothing to install. Slide 15 shows the same address as a large QR code so the room can capture it during the talk.
 

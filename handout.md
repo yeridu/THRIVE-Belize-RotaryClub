@@ -12,7 +12,7 @@ Presented to the Rotary Club of Punta Gorda by Mario Morales, PhD, University of
 
 **The full presentation, with every source, stays online at:**
 
-**https://yeridu.github.io/rotary/**
+**https://yeridu.github.io/THRIVE-Belize-RotaryClub/**
 
 **What this is**
 
