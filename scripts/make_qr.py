@@ -13,7 +13,7 @@ from pathlib import Path
 
 import qrcode
 
-DEFAULT_URL = "https://yeridu.github.io/THRIVE-Belize-RotaryClub/"
+DEFAULT_URL = "https://yeridu.github.io/rotary/"
 OUT = Path(__file__).resolve().parent.parent / "assets" / "qr-deck.svg"
 
 
