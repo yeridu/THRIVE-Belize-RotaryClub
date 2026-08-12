@@ -16,7 +16,7 @@ Presented to the Rotary Club of Punta Gorda on 13 August 2026 by Mario Morales, 
 
 **What this is**
 
-THRIVE-Belize is a comprehensive life-skills curriculum designed for secondary schools in Toledo District: 30 classroom sessions plus one booster, 40 minutes each, across seven modules covering emotions and communication, mental and physical health, substance use and refusal skills, healthy relationships and assertiveness, sexual and reproductive health, masculinities and boys' health, and environmental health. Alongside the classroom sessions sit whole-school components -- school mapping, an anonymous speak-out box, a School Health Promotion Committee, and school health policies.
+THRIVE-Belize is a comprehensive life-skills curriculum designed for secondary schools in Toledo District: 30 classroom sessions plus one booster, 40 minutes each, across seven modules covering emotions and communication, mental and physical health, substance use and refusal skills, healthy relationships and assertiveness, sexual and reproductive health, masculinities and boys' health, and environmental health. Alongside the classroom sessions sit whole-school components -- school mapping, an anonymous speak-out box, a School Health Promotion Committee, and school health policies. On who teaches it, we changed our original plan after listening to people here: in the first year a trained facilitator brought in from outside the community delivers the sessions and introduces the content to teachers, and from the second year teachers begin taking sessions themselves until the school can carry it.
 
 **How it is being built, in four phases**
 
@@ -34,7 +34,7 @@ Emotional distress: 32.7 percent had harmed themselves and 26.6 percent had atte
 
 **Where Phase 1 stands**
 
-Phase 1 asks five groups -- students, parents and guardians, teachers, the principal and school support staff, and key local informants -- whether this curriculum is acceptable, appropriate and workable, and what would have to change before it is ever taught. The anticipated enrolment is about 280 people. Recruitment opened on 23 July 2026 and is still open; as of 12 August 2026, 164 people had taken part, including 85 students and 62 parents and guardians.
+Phase 1 asks five groups -- students, parents and guardians, teachers, the principal and school support staff, and key local informants -- whether this curriculum is acceptable, appropriate and workable, and what would have to change before it is ever taught. The anticipated enrolment is about 280 people. Recruitment opened on 23 July 2026 and is still open; as of 12 August 2026, 169 people had taken part, including 88 students and 64 parents and guardians.
 
 The thresholds that would make us stop were written down and published before any data was collected. Each survey section is scored on the same 5-point scale, from 1 for Strongly Disagree to 5 for Strongly Agree, averaged first within a person and then across the group. If acceptability, appropriateness and feasibility average 3.5 or above, with at least 60 percent of teachers willing and no fundamental safeguarding barrier, the study proceeds. Scores between 3.0 and 3.5 mean proceeding only with changes. Scores below 3.0, teacher willingness below 40 percent, substantial community opposition, or safeguarding capacity that is not adequate mean the study does not proceed. Community opposition is a stopping condition in writing.
 

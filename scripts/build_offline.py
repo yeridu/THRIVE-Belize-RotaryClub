@@ -50,9 +50,11 @@ def main() -> None:
         html,
     )
 
-    # Every local image reference -> data: URI
+    # Every local image and audio reference -> data: URI. data-audio is the
+    # narration button's own attribute, so it needs matching separately.
     embedded = 0
-    for src in sorted(set(re.findall(r'(?:src|href)="((?:photos|assets)/[^"]+)"', html))):
+    refs = re.findall(r'(?:src|href|data-audio)="((?:photos|assets)/[^"]+)"', html)
+    for src in sorted(set(refs)):
         asset = DECK / src
         if not asset.is_file():
             raise SystemExit("missing asset referenced by the deck: {}".format(src))
