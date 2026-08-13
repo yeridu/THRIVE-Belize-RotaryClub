@@ -46,15 +46,15 @@ University of Arizona Institutional Review Board, STUDY00007955. Belize Ministry
 
 Students take part only with active written consent from a parent or guardian, followed by their own written assent. Anyone may skip a question or withdraw. Disclosures are handled using the NSPCC 4Rs approach -- Recognise, Respond, Report, Record -- with referral pathways agreed in advance and mandatory reporting under the Belize Families and Children Act.
 
-**Two things we would like to ask of this club**
+**With thanks to this club**
 
-1. May we read your assessment? You surveyed this community and found that working with young people was the main thing it needs. We surveyed the same town and reached the same place. We would like to read your assessment beside ours, to see where they agree and where they do not. Two independent surveys pointing the same way is a much stronger argument than either one alone.
+Thank you for the time, for the questions, and for considering whether this project belongs among the things Rotary funds. Whatever is decided, that consideration is a compliment to the work.
 
-2. Can we keep talking? You now know what this project actually is. We would like to hear what you make of it, and whether supporting it is something this club would consider.
+If it is useful, we would be glad to keep talking -- about the study, about what you are seeing in Toledo, or about whether there is a fit here for Rotary.
 
 **The team**
 
-Mario Morales, PhD, Principal Investigator and Designated Safeguarding Lead, University of Arizona. Gabriela Valdez, DrPH, Co-Principal Investigator. Aimee Slagle, MPH, MA, External Research Consultant. Sydnie Stocks and Carly Johnson, research staff conducting fieldwork in Punta Gorda. Community health partner: Hillside Health Care, Toledo District. Supported by an internal University of Arizona Graduate College ReaP grant.
+Mario Morales, PhD, Principal Investigator and Designated Safeguarding Lead, University of Arizona. Gabriela Valdez, PhD, MA, MEd, Co-Principal Investigator. Aimee Slagle, MPH, MA, External Research Consultant. Sydnie Stocks and Carly Johnson, research staff conducting fieldwork in Punta Gorda. Community health partner: Hillside Health Care, Toledo District. Supported by an internal University of Arizona Graduate College ReaP grant.
 
 **Contact**
 

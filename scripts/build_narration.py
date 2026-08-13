@@ -19,35 +19,26 @@ OUT = DECK / "assets" / "audio"
 VOICE = "en-US-AndrewNeural"
 RATE = "-6%"   # a little slower than default; this is an explanation, not an advert
 
-# Slide 8 -- how a score is built, and how the three sections combine.
+# Slide 9 -- how the scoring works. Kept short on purpose: the earlier cut ran
+# over a minute and a half, which is longer than a room will hold still for.
 SCORES = """
-Here is how we turn what people tell us into a number, in plain terms.
+Here is how the scoring works, in under a minute.
 
-Every question uses the same five point scale. One means strongly disagree.
-Five means strongly agree. Three means not sure.
+Every question uses the same five point scale. One is strongly disagree.
+Five is strongly agree.
 
-First, we take one person and one section of the survey. A student answering
-the acceptability section answers four statements. We average those four
-answers, and that gives us that student's acceptability score. In the example
-on the screen, four plus five plus four plus three, divided by four, is four
-point zero.
+We average one person's answers within one section. We then average those
+across everyone in the group. That gives one number per group.
 
-Second, we average those personal scores across everyone in the group. That
-gives us one number for students, one for parents, one for teachers, and so on.
+Now the part that matters. We score three things separately: do you want it,
+does it fit here, and can the school run it. We never add them together,
+because a high score in one must not hide a low score in another. The weakest
+of the three decides the colour.
 
-Now the part people usually expect us to do, and the part we deliberately do
-not do. We never add the three sections together into a single overall score.
-Acceptability, appropriateness and feasibility are read separately, each
-against the same threshold, and the weakest of the three decides the colour.
+Three point five or above on all three means the average person agreed, and we
+go ahead. Below three point zero on any one of them means we stop.
 
-The reason is simple. A high score in one section must not be allowed to hide
-a low score in another. If everybody wants the curriculum, and it fits Belize,
-but the school cannot realistically run it, that is not a green light. It is
-an amber one, and what needs fixing is the running of it.
-
-Three point five or above on all three, and the average person agreed. Below
-three point zero on any one of them, and the average person was not sure or
-worse. We wrote those lines down before we collected a single answer.
+We wrote those lines down before we collected a single answer.
 """
 
 
