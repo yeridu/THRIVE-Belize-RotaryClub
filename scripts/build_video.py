@@ -32,7 +32,7 @@ FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
 CHROME = Path(r"C:\Program Files\Google\Chrome\Application\chrome.exe")
 
 VOICE = "en-US-AndrewNeural"
-RATE = "-4%"
+RATE = "+8%"
 GAP = 0.7          # seconds of silence after each beat
 W, H = 1280, 720
 
@@ -93,11 +93,13 @@ BEATS = [
 
     ("Implementation &middot; 6 of 10",
      "Enough well-selected, trained and supported staff",
-     "A trained facilitator carries the first year and hands over to teachers from the second",
+     "At least two trained facilitators in year one, then teachers trained the year after",
      "Six. Enough well-selected, trained and supported staff. This is the element "
-     "that changed our plan. We had intended teachers to deliver from the start. "
-     "People in Toledo told us that was too much to ask at once, so a trained "
-     "facilitator now carries the first year and hands over to teachers from the second."),
+     "still under discussion. Our original plan was to train the teachers from the "
+     "start. Best practice points the other way: bring in at least two trained "
+     "facilitators for the first year, then train the teachers the year after, so "
+     "the school can carry it without us. That choice is not settled, and it is one "
+     "of the things the feasibility study is asking about."),
 
     ("Where relevant &middot; 7 of 10",
      "Group activities that build empowerment and good relationships",

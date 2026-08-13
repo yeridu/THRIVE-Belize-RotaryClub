@@ -6,6 +6,8 @@ output:
 
 **THRIVE-Belize**
 
+Transformative Health Resources and Interventions for Vital Empowerment
+
 **A life-skills curriculum for Toledo Community College -- and a formal test of whether this community finds it acceptable, appropriate and workable**
 
 Presented to the Rotary Club of Punta Gorda on 13 August 2026 by Mario Morales, PhD, and Aimee Slagle, MPH, MA, University of Arizona
@@ -16,7 +18,7 @@ Presented to the Rotary Club of Punta Gorda on 13 August 2026 by Mario Morales, 
 
 **What this is**
 
-THRIVE-Belize is a comprehensive life-skills curriculum designed for secondary schools in Toledo District: 30 classroom sessions plus one booster, 40 minutes each, across seven modules covering emotions and communication, mental and physical health, substance use and refusal skills, healthy relationships and assertiveness, sexual and reproductive health, masculinities and boys' health, and environmental health. Alongside the classroom sessions sit whole-school components -- school mapping, an anonymous speak-out box, a School Health Promotion Committee, and school health policies. On who teaches it, we changed our original plan after listening to people here: in the first year a trained facilitator brought in from outside the community delivers the sessions and introduces the content to teachers, and from the second year teachers begin taking sessions themselves until the school can carry it.
+THRIVE-Belize is a comprehensive life-skills curriculum designed for secondary schools in Toledo District: 30 classroom sessions plus one booster, 40 minutes each, across seven modules covering emotions and communication, mental and physical health, substance use and refusal skills, healthy relationships and assertiveness, sexual and reproductive health, masculinities and boys' health, and environmental health. Alongside the classroom sessions sit whole-school components -- school mapping, an anonymous speak-out box, a School Health Promotion Committee, and school health policies. Who teaches it is not yet settled. Our original plan was to train the teachers from the start. Best practice points the other way: bring in at least two trained facilitators for the first year, then train the teachers the year after so the school can carry it without us. Which model Toledo prefers is one of the questions Phase 1 is asking.
 
 **How it is being built, in four phases**
 
@@ -44,15 +46,11 @@ University of Arizona Institutional Review Board, STUDY00007955. Belize Ministry
 
 Students take part only with active written consent from a parent or guardian, followed by their own written assent. Anyone may skip a question or withdraw. Disclosures are handled using the NSPCC 4Rs approach -- Recognise, Respond, Report, Record -- with referral pathways agreed in advance and mandatory reporting under the Belize Families and Children Act.
 
-**Four things we would like to explore with this club, and none of them needs a decision today**
+**Two things we would like to ask of this club**
 
-1. Take part, if you would like to. One of the five Phase 1 groups is key local informants, meaning adults in Toledo District who work with young people. Taking part is one short survey, or one interview if you would rather talk than write. That is the whole of it, and it ends when Phase 1 ends.
+1. May we read your assessment? You surveyed this community and found that working with young people was the main thing it needs. We surveyed the same town and reached the same place. We would like to read your assessment beside ours, to see where they agree and where they do not. Two independent surveys pointing the same way is a much stronger argument than either one alone.
 
-2. An Interact club at Toledo Community College, as an idea rather than a proposal. Interact is Rotary's own programme for young people aged 12 to 18, which happens to be the ages in Forms 1 to 4. We are not putting it forward. We would like to work through with a few members what it would actually involve, what it would ask of the club, and whether it suits the school at all. It is independent of this study either way.
-
-3. Compare notes with us. We have read the research on what makes these programmes work. You know Toledo -- how the school year runs against the harvest, which languages a form has to be printed in to be read, how to reach parents who will not come to a meeting at the school, and what has been tried here before.
-
-4. Later, and only if Phase 1 supports proceeding, we would welcome a conversation about whether a Rotary district or global grant is a fit, given how the modules align with Rotary's areas of focus. Not today.
+2. Can we keep talking? You now know what this project actually is. We would like to hear what you make of it, and whether supporting it is something this club would consider.
 
 **The team**
 
