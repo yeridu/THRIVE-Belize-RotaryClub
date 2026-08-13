@@ -1058,7 +1058,22 @@ img {
   transform: rotate(45deg);
 }
 
-.approvals li strong { color: var(--black); font-weight: 600; }
+/* Institution on its own line, the reference number on the line beneath. */
+.approvals li strong {
+  display: block;
+  color: var(--black);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.approvals li span {
+  display: block;
+  margin-top: 1px;
+  color: var(--orange);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.01em;
+}
 
 /* --- Title slide: the four-phase strip --- */
 .phases {
@@ -2069,9 +2084,9 @@ img {
           <div class="fact-row"><dt>Approvals</dt>
             <dd>
               <ul class="approvals">
-                <li><strong>University of Arizona</strong> IRB &mdash; STUDY00007955</li>
-                <li><strong>Belize Ministry of Health and Wellness</strong> IRB &mdash; MOHW/IRB/2026/002</li>
-                <li><strong>Belize Ministry of Education, Culture, Science and Technology</strong> &mdash; GEN/21/26(112) Vol. III</li>
+                <li><strong>University of Arizona IRB</strong><span>STUDY00007955</span></li>
+                <li><strong>Belize Ministry of Health and Wellness IRB</strong><span>MOHW/IRB/2026/002</span></li>
+                <li><strong>Belize Ministry of Education, Culture, Science and Technology</strong><span>GEN/21/26(112) Vol. III</span></li>
               </ul>
             </dd>
           </div>
